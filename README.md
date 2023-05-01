@@ -1,2 +1,2 @@
-# CodeAlpha_Project
+# CodeAlpha_Projects
 Internship Projects
